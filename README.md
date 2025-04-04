@@ -4,8 +4,11 @@ Este repositório contém uma recriação da página do Spotify de 2022, desenvo
 🚀 Tecnologias utilizadas
 
 ✅ HTML5 – Estruturação semântica
+
 ✅ CSS3 – Estilização com Flexbox e Grid
+
 ✅ Responsividade – Layout adaptável para diferentes dispositivos
+
 🎯 Objetivo do projeto
 
 Este projeto foi desenvolvido como um desafio pessoal para estudar e replicar o design e funcionalidades da página inicial do Spotify no ano de 2022.
